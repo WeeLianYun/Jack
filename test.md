@@ -7,9 +7,13 @@ Trying stuff from [GitHub Guides](https://guides.github.com/features/mastering-m
     * It
     * Working
 
-Note1: #<space>Header text
+Note1: #"space"Header text
  
 Note2: [Name of link](website link for name of link)
 
-Note3: *<space>List 1
-       <tab space>*<space>List 1a
+Note3: *"space"List 1
+       "tab space"*"space"List 1a
+        
+Note4: Line1"Enter""Enter"Line 2
+
+Note5: "<>" reserved for other uses
