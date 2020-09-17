@@ -7,9 +7,19 @@ Trying stuff from [GitHub Guides](https://guides.github.com/features/mastering-m
     * It
     * Working
 
-As Dojima once said:
+As Gin Dojima said:
 
 > Stagnation is akins to regression
+
+## Things to try out
+
+- [x] Headers
+- [ ] Emphasis
+- [x] List
+- [ ] Images
+- [x] Links
+- [x] Blockquotes
+- [ ] Inline code
 
 Note1: #"space"Header text
  
