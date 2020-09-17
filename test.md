@@ -7,6 +7,10 @@ Trying stuff from [GitHub Guides](https://guides.github.com/features/mastering-m
     * It
     * Working
 
+As Dojima once said:
+
+> Stagnation is akins to regression
+
 Note1: #"space"Header text
  
 Note2: [Name of link](website link for name of link)
