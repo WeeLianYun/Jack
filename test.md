@@ -7,14 +7,16 @@ Trying stuff from [GitHub Guides](https://guides.github.com/features/mastering-m
     * It
     * Working
 
+![Test Image](/Test Image.jpg)
+
 As Gin Dojima said:
 
-> Stagnation is akins to regression
+> __Stagnation__ is *akins* to __regression__
 
 ## Things to try out
 
 - [x] Headers
-- [ ] Emphasis
+- [x] Emphasis
 - [x] List
 - [ ] Images
 - [x] Links
